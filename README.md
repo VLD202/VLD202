@@ -3,6 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&color=00FFFF&center=true&vCenter=true&width=700&height=80&lines=Vijaylaxmi+Dixit;Cloud+%7C+DevOps+%7C+Full+Stack+Engineer;Innovating+the+Future+%F0%9F%9A%80" />
 </h1>
 
+<!-- RIGHT SIDE GIF FIX -->
+<p align="right">
+  <img src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"
+       width="330"
+       style="border-radius:12px; margin-left:15px; margin-bottom:10px;" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud%20Architect-%2300ffff?style=for-the-badge&logo=cloudflare&logoColor=black" />
   <img src="https://img.shields.io/badge/DevOps-%23ff00ff?style=for-the-badge&logo=linux&logoColor=black" />
@@ -21,8 +28,6 @@
 - 💻 MERN + TypeScript stack  
 - 🔐 Obsessed with security & performance  
 - 📈 Always learning **Cloud-Native & AI in DevOps**
-
-<img align="right" width="350" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 ---
 
@@ -43,8 +48,7 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img width="98%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=VLD202&bg_color=0d1117&color=00b4ff&line=0077ff&point=66ccff&area=true&area_color=003d7a&hide_border=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=VLD202&bg_color=0d1117&color=00b4ff&line=0077ff&point=66ccff&area=true&area_color=003d7a&hide_border=true" />
 </p>
 
 ---
